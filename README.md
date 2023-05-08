@@ -5,4 +5,4 @@ Contains <b>python implemention of the Genetic Algorithm</b> and the concepts in
 
 <b>GeneticAlgorithm.py:</b> Contains the implementation of the roulette selection operator, uniform crossover an uniform mutation operator.
 
-<b>GeneticRouletteTournament.py:</b> Contains the implementation of the roulette selection and the tournament selection operator, uniform crossover an uniform mutation operator. The logic switches between the two selection operator if one of the operator provides less fitter population. Eg. If rolette selection provides a less fitter population, ten the tournament selection operator is used for the population selection and vice-versa.
+<b>GeneticRouletteTournament.py:</b> Contains the implementation of the roulette selection and the tournament selection operator, uniform crossover an uniform mutation operator. The logic switches between the two selection operator if one of the operator provides less fitter population. Eg. If roulette selection operator provides a less fitter population, then the tournament selection operator is used for the population selection and vice-versa.
